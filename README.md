@@ -11,7 +11,7 @@ Spring | Spring Boot | MERN | Flask | Nextjs SSR | Flutter | Jetpack | Electronj
 [Medium](https://medium.com/@adityapatnaik25x)
 
 ## Connect
-Drop a message at [Twitter](https://twitter.com/adityapatnaik_) or [Linkedin](www.linkedin.com/in/aditya-patnaik)
+Drop a message at [Twitter](https://twitter.com/mradityapatnaik) or [Linkedin](www.linkedin.com/in/aditya-patnaik)
 
 ## Eternal Facts
 1. God Exists!
