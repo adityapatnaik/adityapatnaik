@@ -13,17 +13,6 @@ Spring | Spring Boot | MERN | Flask | Nextjs SSR | Flutter | Jetpack | Electronj
 ## Connect
 Drop a message at [Twitter](https://twitter.com/mradityapatnaik) or [Linkedin](www.linkedin.com/in/aditya-patnaik)
 
-## Eternal Facts
-1. God Exists!
-2. We are the soul residing in a temporary ever changing place called body.
-3. Whatever appears to be of any value, if it is without relation to God, has no reality. Know it as God's illusory energy.
-4. Restrict your 6 senses including mind to advance in any sphere of life.
-5. Simple rules to lead a `happy and peaceful` life.
-
-    1. No illicit sex life.
-    2. No meat eating.
-    3. No gambling.
-    4. No intoxication.
 
 
 
