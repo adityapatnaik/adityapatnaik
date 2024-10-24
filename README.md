@@ -1,4 +1,4 @@
-## Hi there! This is Aditya 👋
+## Aditya Patnaik 👋
 
 <a href="https://stackexchange.com/users/15309583/aditya-patnaik"><img src="https://stackexchange.com/users/flair/15309583.png" width="208" height="58" alt="profile for Aditya Patnaik on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Aditya Patnaik on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
